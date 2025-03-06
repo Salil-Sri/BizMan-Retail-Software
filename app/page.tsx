@@ -364,7 +364,7 @@ function FeatureCard({
   )
 }
 
-function PricingCard({
+function  PricingCard({
   title,
   price,
   description,
